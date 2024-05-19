@@ -1,3 +1,7 @@
+# My Project
+
+This is a test change to trigger GitHub Actions workflows.
+
 # A simple counter-App using [React.js](https://reactjs.org)
 
 > **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
